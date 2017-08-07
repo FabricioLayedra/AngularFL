@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
@@ -30,4 +30,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # AngularFL
 Práctica de Angular.
->>>>>>> e98c385267176094f778dae662cd1e771c1a3482
